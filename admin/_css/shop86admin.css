@@ -1,0 +1,77 @@
+
+/* COLUMN CSS */
+.column-thumbnail86{
+    width:120px;
+}
+
+/* METABOX CSS */
+.shop86product_main_meta .description
+{ display:none; }
+
+.shop86product_main_meta label
+{ display:block; font-weight:bold; margin:6px; margin-bottom:0; margin-top:12px; }
+
+.shop86product_main_meta label span
+{ display:inline; font-weight:normal; }
+
+.shop86product_main_meta span
+{ color:#999; display:block; }
+
+.shop86product_main_meta textarea, .my_meta_control input[type='text']
+{ margin-bottom:3px; width:99%; }
+
+.shop86product_main_meta h4
+{ color:#999; font-size:1em; margin:15px 6px; text-transform:uppercase; }
+
+.add_product .add_product_btn_img{
+    background:url('../_img/shop86_bar_sprite.png') no-repeat 0 0;
+    display: inline-block;
+    width: 14px;
+    height: 17px;
+    vertical-align: middle;
+    margin: 0 2px;
+}
+
+.add_product:hover .add_product_btn_img{
+    background:url('../_img/shop86_bar_sprite.png') no-repeat -18px 0;
+}
+
+
+
+/* LightBox admin page */
+
+.shop86lightbox_productName {
+    display:inline-block;
+    padding-right:10px;
+
+}
+
+/* ICONS */
+
+    .menu-icon-shop86products .wp-menu-image img{
+        display:none;
+    }
+
+    .menu-icon-shop86products .wp-menu-image {
+        background:url('../_img/shop86_logo_small_sprite.png') no-repeat -16px 6px;
+    }
+
+    .menu-icon-shop86products .wp-menu-open .wp-menu-image {
+        background:url('../_img/shop86_logo_small_sprite.png') no-repeat 7px 6px;
+    }
+
+    @media
+    (-webkit-min-device-pixel-ratio: 2),
+    (min-resolution: 192dpi) {
+
+        .menu-icon-shop86products .wp-menu-image {
+            background:url('../_img/shop86_logo_small_sprite@2x.png') no-repeat -22px 6px;
+            background-size:160%;
+        }
+
+        .menu-icon-shop86products .wp-menu-open .wp-menu-image {
+            background:url('../_img/shop86_logo_small_sprite@2x.png') no-repeat 6px 6px;
+            background-size:160%;
+        }
+    }
+

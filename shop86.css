@@ -1,0 +1,218 @@
+#TB_window a {
+	color: #0088cc;
+}
+
+
+#TB_window a:visited  {
+	color: #0088cc;
+}
+
+#TB_window a:link {
+	color: #0088cc;
+}
+
+#TB_ajaxContent {
+	background:#f1f1f1;
+}
+
+#TB_ajaxContent .inner{
+	padding:10px;
+}
+
+#TB_ajaxContent .shop86_title {
+	color: #929292;
+	font-size: 1.75em;
+	line-height: 1.25em;
+	margin: 0 0 15px;
+}
+
+#TB_ajaxContent .shop86_items {
+	position: relative;
+	padding: 0px 20px;
+	border: 1px solid #e5e5e5;
+	background: #fff;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	border-radius: 3px;
+}
+
+#TB_ajaxContent .shop86_item {
+	position: relative;
+	margin: 5px 0 10px 0;
+}
+
+#TB_ajaxContent .shop86_item_img {
+	float:left;
+	width:150px;
+	margin-right: 10px;;
+}
+
+#TB_ajaxContent .shop86_item_desc {
+	float:left;
+	padding:10px 0 0 0;
+	width:450px;
+}
+
+#TB_ajaxContent .shop86_item_desc .title .text{
+	font-size:1.55em;
+}
+
+#TB_ajaxContent .shop86_item_desc .desc .text{
+
+}
+
+#TB_ajaxContent .shop86_item_desc .price .text{
+	font-size:1.1em;
+	color:#929292;
+}
+
+#TB_ajaxContent .shop86_item_desc .price .itemPrice,
+#TB_ajaxContent .shop86_item_desc .price .itemPriceTotal{
+	font-size:1.5em;
+}
+
+#TB_ajaxContent .shop86_orderColumn .price .itemPrice,
+#TB_ajaxContent .shop86_orderColumn .price .itemAmount {
+	color:#333333 !important;
+	font-size: 1.2em !important;
+}
+
+#TB_ajaxContent .shop86_item_remove_btn {
+	position: absolute;
+	right:0;
+	top:50%;
+}
+
+#TB_ajaxContent .shop86_total .shop86_totalPriceInfo{
+	margin:30px 0 30px 0;
+}
+
+#TB_ajaxContent .shop86_total .shop86_totalPriceInfo .name{
+	float: left;
+	width: 102px;
+	color: #b2b2b2;
+	text-align: center;
+}
+
+#TB_ajaxContent .shop86_total .shop86_totalPriceInfo .price {
+	font-size:2em;
+	color:#333333;
+}
+
+#TB_ajaxContent .shop86_control_btns {
+	margin:10px 0 0 105px;
+
+}
+
+#TB_ajaxContent .shop86_control_btns .btn{
+	color:#ffffff;
+}
+
+#TB_ajaxContent .shop86_continue_shopping {
+	border-bottom: 1px dotted #cccccc;
+	margin:0 0 0 10px;
+	color:#828282;
+}
+
+#TB_ajaxContent .shop86_continue_shopping:hover {
+	border-bottom: 1px solid #e5e5e5;
+	text-decoration: none;;
+	color:#828282;
+
+}
+
+
+#TB_ajaxContent .shop86_formColumn{
+	float:left;
+	width:50%;
+}
+
+#TB_ajaxContent .shop86_formColumn .inner{
+	border:1px solid #cccccc;
+	background: #ffffff;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+
+#TB_ajaxContent .shop86_orderColumn{
+	float:left;
+	width:50%;
+	background: none;;
+}
+
+#TB_ajaxContent .shop86_orderColumn .inner{
+	padding:0;
+}
+
+#TB_ajaxContent .shop86_orderColumn .shop86_item {
+	padding-bottom: 10px;
+	border-bottom: 1px dashed #cccccc;
+}
+
+#TB_ajaxContent .shop86_orderColumn .shop86_item .shop86_item_desc{
+	width:auto;
+	padding:0;
+}
+
+#TB_ajaxContent .shop86_orderColumn .shop86_items{
+	background: none;
+	border: none;
+
+}
+
+#TB_ajaxContent .shop86_orderColumn .shop86_items .shop86_item{
+	margin:0 0 10px 0;
+}
+
+#TB_ajaxContent .shop86_orderColumn .shop86_item .shop86_item_remove_btn{
+	top:5%;
+}
+
+#TB_ajaxContent .shop86_orderColumn .shop86_item .price{
+	font-size:1.2em;
+	color:#929292;
+}
+
+#TB_ajaxContent .shop86_orderColumn .shop86_item .title {
+	padding:10px 0;
+}
+
+
+#TB_ajaxContent .shop86_formColumn .form-horizontal .control-label {
+	width:110px;
+}
+
+#TB_ajaxContent .shop86_formColumn .form-horizontal .controls {
+	margin-left:140px;
+}
+
+#TB_ajaxContent .shop86_formColumn .form-horizontal .form-actions {
+	padding-left: 0;
+	text-align: center;
+}
+
+.shop86_orderColumn .shop86_total {
+	border-bottom: 1px dashed #cccccc;
+}
+
+.shop86_orderColumn .shop86_shopinfo{
+	margin:20px 0;
+}
+
+.shop86_orderColumn .shop86_shopinfo .inner {
+	margin:10px 0;
+}
+
+.shop86_orderColumn .shop86_shopinfo .name{
+	float: left;
+	width: 102px;
+	color: #b2b2b2;
+	text-align: center;
+}
+
+.shop86_orderColumn .shop86_shopinfo .info {
+	font-size:1.25em;
+	color:#666666;
+}
